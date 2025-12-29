@@ -1,0 +1,11 @@
+#install dependencies on bash 
+pip install streamlit sentence-transformers faiss-cpu pypdf openai tiktoken
+#project structure 
+mini_chatgpt_docs/
+│
+├── app.py
+├── rag.py
+├── utils.py
+└── requirements.txt
+
+
