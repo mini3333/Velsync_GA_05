@@ -1,0 +1,2 @@
+#run the app file on bash
+streamlit run app.py
